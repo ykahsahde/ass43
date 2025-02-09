@@ -1,9 +1,9 @@
 
 import ReactDOM from "react-dom/client";
-import Spot from "./spot/spot";
-import Home from "./home/home";
-import Aboutus from "./about/aboutus";
-import Contactus from "./contactus/contactus";
+import Spot from "./views/spot/spot";
+import Home from "./views/home/home";
+import Aboutus from "./views/about/aboutus";
+import Contactus from "./views/contactus/contactus";
 
 console.log("Home Component:", Home);
 console.log("Spot Component:", Spot);
